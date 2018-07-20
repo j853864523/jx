@@ -4,6 +4,7 @@
 var proxy = "PROXY 127.0.0.1:8088";
 
 var rules = [
+  ".hacg.wang",
   ".btbtt.net",
   "|http://85.17.73.31/",
   "||agnesb.fr",
